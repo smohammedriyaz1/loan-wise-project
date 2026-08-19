@@ -30,14 +30,4 @@ Supervised Learning: Training and comparing multiple classification algorithms (
 
 Model Evaluation: Assessing performance using critical classification metrics including Precision, Recall, and F1-Score.
 
-💡 How to Run the Project
-Clone the repository:
 
-Bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name/MiniProject
-Open Jupyter Notebook:
-
-Bash
-jupyter notebook loan_wise.ipynb
-Run the cells sequentially to execute the full pipeline.
